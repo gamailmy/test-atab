@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "e-Monitoring Satker ATAB SDA PU",
   description: "Dashboard visualisasi data e-Monitoring Satker ATAB SDA PU - paket, pagu, dan progres fisik & keuangan per satker.",
-  keywords: ["e-Monitoring", "PUPR", "ATAB", "SDA", "satker", "dashboard", "Next.js"],
+  keywords: ["e-Monitoring", "PU", "ATAB", "SDA", "satker", "dashboard", "Next.js"],
   authors: [{ name: "e-Monitoring Team" }],
   icons: {
     icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     title: "e-Monitoring Satker ATAB SDA PU",
     description: "Dashboard visualisasi data e-Monitoring Satker ATAB SDA PU",
     url: "https://chat.z.ai",
-    siteName: "e-Monitoring PUPR",
+    siteName: "e-Monitoring PU",
     type: "website",
   },
   twitter: {
