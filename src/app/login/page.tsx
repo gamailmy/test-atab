@@ -154,7 +154,12 @@ function LoginForm() {
 
           {/* Demo Credentials Hint */}
           <div className="mt-5 pt-4 border-t border-border/50">
-            
+            <p className="text-[11px] text-muted-foreground text-center leading-relaxed">
+              <span className="font-medium">Demo credentials:</span>{" "}
+              <code className="px-1.5 py-0.5 rounded bg-muted font-mono text-[10px]">{demoUser}</code>{" "}
+              /{" "}
+              <code className="px-1.5 py-0.5 rounded bg-muted font-mono text-[10px]">{demoPass}</code>
+            </p>
             <p className="text-[10px] text-muted-foreground/70 text-center mt-1.5">
               Akses terbatas untuk kalangan tertentu di Kementerian PU
             </p>
